@@ -1,6 +1,6 @@
 
 (function () {
-  const form = document.getElementById("login_id");
+  const form = document.getElementById("login-form");
   const usernameInput = document.getElementById("username");
   const passwordInput = document.getElementById("password");
   const rememberCheckbox = document.getElementById("checkbox");
